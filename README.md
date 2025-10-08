@@ -18,7 +18,7 @@ sudo apt-get install gcc make xorg libxext-dev libbsd-dev
 
 🚀 How to Run
     1- Clone the repo 
-        git clone https://github.com/<your-username>/so_long.git
+        git clone https://github.com/aboodjabr0/so_long.git
         cd so_long
     2- Build the project
         make
